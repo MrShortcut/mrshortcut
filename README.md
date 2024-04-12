@@ -25,6 +25,7 @@
   <a href="https://app.daily.dev/MrShortcut"><img src="https://api.daily.dev/devcards/c1618d45fadb4b1a945f6b0f7a625dd4.png?r=v1w" width="400" alt="MrShortcut's Dev Card"/></a>
   <br/>Wakatime board<br/>
   <img alt="wakatimeBoard" width=800 src="https://wakatime.com/share/@CheatModes4/ffc9caeb-1e6d-4282-b0dc-443c8dc47e43.svg"/>
+  <img alt="wakatimeBoard" width=800 src="https://wakatime.com/share/@CheatModes4/03098c66-608c-45d9-9f86-b8399f13398a.svg"/>
 </p>
 
 
