@@ -20,9 +20,9 @@
 [@CheatModes4.com](https://rroderickk.github.io/me-gndx/)
 </div>
 
-<p align='center'>
-  <a href="https://app.daily.dev/MrShortcut"><img src="https://api.daily.dev/devcards/c1618d45fadb4b1a945f6b0f7a625dd4.png?r=v1w" width="400" alt="MrShortcut's Dev Card"/></a>
+<p align='center'
   <a href="https://app.daily.dev/mrshortcut"><img src="https://api.daily.dev/devcards/v2/4AGlyFEq61CUyUlvtcDDH.png?type=wide&r=yk9" width="652" alt="MrShortcut's Dev Card"/></a>
+  <a href="https://app.daily.dev/MrShortcut"><img src="https://api.daily.dev/devcards/c1618d45fadb4b1a945f6b0f7a625dd4.png?r=v1w" width="400" alt="MrShortcut's Dev Card"/></a>
 </p>
 
 [instagram]: https://instagram.com/rodrigomorenop
